@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Pardis
+ *
+ */
+module empLLStack {
+}
