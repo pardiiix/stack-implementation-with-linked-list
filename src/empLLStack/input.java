@@ -6,7 +6,7 @@ public class input {
 
 	public static void main(String[] args) throws Exception {
 		
-		File text = new File (""src/emp(2).txt"");
+		File text = new File ("src/emp(2).txt");
 		
 		Scanner in = new Scanner(text);
 		LinkedStack<Employee> lls =  new LinkedStack<Employee>(); //creates a new Linked List stack called lls
